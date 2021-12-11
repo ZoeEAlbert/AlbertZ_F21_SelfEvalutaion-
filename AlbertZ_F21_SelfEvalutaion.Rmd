@@ -109,13 +109,13 @@ In short, I accomplished all of the tasks I was asked to accomplish on time.
     
   + HW4: What's Your Malfunction?  Difficult and not perfect.  But, done on time.
     
-  + HW5: Boots for Days!  Difficult and not perfect.  Maybe a bit of a reprieve from the two before. Done on time. 
+  + HW5: Boots for Days!  Difficult, but a bit of a reprieve from the two before. Done on time. 
   
   + Peer Commentary.  Done on time.  Worked with my peers, which I think helped us all learn more. 
   
   + Analysis Replication Assignment.  The thing I am most proud of.  Was never able to figure out which factors they used as random effects in the lmm, but I got to work with so many amazing people and really challenge myself.  I still feel as though I was successful. 
   
-  + Group Presentation.  We just presented this yesterday, but I am proud of how it turned out.  I started from zero knowlledge of ctmm, and now feel as though I could use and explain it to others. 
+  + Group Presentation.  We just presented this yesterday, but I am proud of how it turned out.  I started from zero knowledge of ctmm, and now feel as though I could use and explain it to others. 
   
 <br><br><br><br><br><br>
 
@@ -137,7 +137,7 @@ I would say that there is no easy answer to whether or not my work/understanding
 
 ***
 
-During my senior year of undergrad (2017), I took a course on animal behavior where I went to the zoo and observed black and white ruffed lemur behavior.  At the end of the semester we did a one hour crash course on r in order to analyze our data, and I was convinced that I had it down, which I now understand was overconfident.  My understanding of statistics has gotten so much deeper over the course of the semester.  I have a better understanding of when and how to use certain statistical tests.  I definitely have a better understanding of what goes in to publishing a research paper.  Most importantly, I think I better understand what kind of data I DEFFINITLY need to collect in order to make my analyses easier when I get back from Borneo.  The replication assignment was the most enlightening in that regard.   <br><br><br><br><br><br><br><br>
+During my senior year of undergrad (2017), I took a course on animal behavior where I went to the zoo and observed black and white ruffed lemur behavior.  At the end of the semester we did a one hour crash course on r in order to analyze our data, and I was convinced that I had it down, which I now understand was overconfident.  My understanding of statistics has gotten so much deeper over the course of the semester.  I have a better understanding of when and how to use certain statistical tests.  I definitely have a better understanding of what goes into publishing a research paper.  Most importantly, I think I better understand what kind of data I DEFFINITLY need to collect in order to make my analyses easier when I get back from Borneo.  The replication assignment was the most enlightening in that regard.   <br><br><br><br><br><br><br><br>
 
 ***
 
